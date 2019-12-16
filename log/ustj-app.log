@@ -1,0 +1,818 @@
+2019-12-16 04:16:09.779  INFO 30643 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 30643 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:16:09.791  INFO 30643 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:16:11.355  INFO 30643 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.163 seconds (JVM running for 7.911)
+2019-12-16 04:16:11.364  INFO 30643 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:20:15.045  INFO 30748 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 30748 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:20:15.057  INFO 30748 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:20:16.788  INFO 30748 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.389 seconds (JVM running for 5.994)
+2019-12-16 04:20:16.798  INFO 30748 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:22:46.156  INFO 30832 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 30832 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:22:46.168  INFO 30832 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:22:47.895  INFO 30832 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.444 seconds (JVM running for 6.098)
+2019-12-16 04:22:47.905  INFO 30832 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:23:44.356  INFO 30902 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 30902 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:23:44.376  INFO 30902 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:23:47.275  INFO 30902 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.728 seconds (JVM running for 7.202)
+2019-12-16 04:23:47.286  INFO 30902 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:24:57.351  INFO 30978 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 30978 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:24:57.363  INFO 30978 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:24:59.133  INFO 30978 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.391 seconds (JVM running for 5.937)
+2019-12-16 04:24:59.142  INFO 30978 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:25:18.455  INFO 31048 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31048 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:25:18.469  INFO 31048 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:25:20.244  INFO 31048 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.408 seconds (JVM running for 5.824)
+2019-12-16 04:25:20.254  INFO 31048 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:27:08.481  INFO 31130 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31130 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:27:08.493  INFO 31130 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:27:10.264  INFO 31130 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.387 seconds (JVM running for 5.734)
+2019-12-16 04:27:10.273  INFO 31130 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:28:15.505  INFO 31197 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31197 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:28:15.518  INFO 31197 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:28:17.248  INFO 31197 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.333 seconds (JVM running for 5.721)
+2019-12-16 04:28:17.259  INFO 31197 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:32:23.572  INFO 31356 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31356 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:32:23.586  INFO 31356 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:32:25.439  WARN 31356 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 04:32:25.474  INFO 31356 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 04:32:25.846 ERROR 31356 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field controller in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 04:32:25.854 ERROR 31356 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 04:33:27.900  INFO 31431 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31431 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:33:27.914  INFO 31431 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:33:29.608  WARN 31431 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 04:33:29.637  INFO 31431 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 04:33:29.987 ERROR 31431 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field controller in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 04:33:29.993 ERROR 31431 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 04:34:09.919  INFO 31499 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31499 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:34:09.959  INFO 31499 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:34:12.386  WARN 31499 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 04:34:12.417  INFO 31499 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 04:34:12.752 ERROR 31499 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field controller in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 04:34:12.757 ERROR 31499 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 04:34:57.445  INFO 31559 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31559 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:34:57.458  INFO 31559 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:34:59.484  WARN 31559 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'controller'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 04:34:59.523  INFO 31559 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 04:34:59.874 ERROR 31559 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field controller in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 04:34:59.879 ERROR 31559 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 04:35:45.629  INFO 31624 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31624 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:35:45.650  INFO 31624 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:35:48.772  INFO 31624 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 5.057 seconds (JVM running for 8.017)
+2019-12-16 04:35:48.798  INFO 31624 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:39:34.224  INFO 31724 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31724 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:39:34.237  INFO 31724 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:39:36.041  INFO 31724 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.476 seconds (JVM running for 6.053)
+2019-12-16 04:39:36.050  INFO 31724 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:40:34.239  INFO 31813 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31813 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:40:34.260  INFO 31813 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:40:36.385  INFO 31813 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.97 seconds (JVM running for 6.752)
+2019-12-16 04:40:36.393  INFO 31813 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:41:41.810  INFO 31887 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 31887 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:41:41.825  INFO 31887 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:41:43.564  INFO 31887 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.426 seconds (JVM running for 5.813)
+2019-12-16 04:41:43.574  INFO 31887 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:44:52.176  INFO 32033 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32033 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:44:52.189  INFO 32033 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:44:53.969  INFO 32033 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.378 seconds (JVM running for 6.338)
+2019-12-16 04:44:53.978  INFO 32033 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:46:07.291  INFO 32114 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32114 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:46:07.314  INFO 32114 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:46:10.607  INFO 32114 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 5.543 seconds (JVM running for 8.069)
+2019-12-16 04:46:10.626  INFO 32114 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:48:19.154  INFO 32196 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32196 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:48:19.177  INFO 32196 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:48:20.953  INFO 32196 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.417 seconds (JVM running for 5.792)
+2019-12-16 04:48:20.963  INFO 32196 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:49:05.381  INFO 32321 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32321 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:49:05.388  INFO 32321 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:49:07.144  INFO 32321 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 2.769 seconds (JVM running for 4.939)
+2019-12-16 04:49:07.175  INFO 32321 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:54:51.588  INFO 32658 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32658 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:54:51.599  INFO 32658 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:54:53.371  INFO 32658 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.419 seconds (JVM running for 5.809)
+2019-12-16 04:54:53.380  INFO 32658 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:56:04.582  INFO 32745 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32745 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:56:04.600  INFO 32745 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:56:06.333  INFO 32745 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.368 seconds (JVM running for 5.821)
+2019-12-16 04:56:06.342  INFO 32745 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 04:56:29.499  INFO 32808 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32808 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:56:29.512  INFO 32808 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:56:31.462  WARN 32808 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'con'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 04:56:31.504  INFO 32808 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 04:56:31.900 ERROR 32808 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field con in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 04:56:31.906 ERROR 32808 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 04:57:31.343  INFO 32873 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32873 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:57:31.357  INFO 32873 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:57:32.898  WARN 32873 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'con'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 04:57:32.930  INFO 32873 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 04:57:33.266 ERROR 32873 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field con in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 04:57:33.271 ERROR 32873 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 04:58:03.968  INFO 32933 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 32933 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 04:58:03.981  INFO 32933 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 04:58:05.965  WARN 32933 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'con'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 04:58:06.001  INFO 32933 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 04:58:06.333 ERROR 32933 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field con in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 04:58:06.337 ERROR 32933 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 05:02:46.455  INFO 33094 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33094 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:02:46.469  INFO 33094 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:02:48.415  WARN 33094 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'con'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.AppsController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 05:02:48.460  INFO 33094 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 05:02:48.865 ERROR 33094 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field con in javafx.JavafxFullApplication required a bean of type 'javafx.Controller.AppsController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.AppsController' in your configuration.
+
+2019-12-16 05:02:48.874 ERROR 33094 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 05:03:50.698  INFO 33173 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33173 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:03:50.716  INFO 33173 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:03:53.125  INFO 33173 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.404 seconds (JVM running for 7.231)
+2019-12-16 05:03:53.138  INFO 33173 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:05:12.479  INFO 33243 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33243 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:05:12.495  INFO 33243 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:05:14.535  INFO 33243 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.9 seconds (JVM running for 6.691)
+2019-12-16 05:05:14.545  INFO 33243 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:05:33.038  INFO 33309 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33309 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:05:33.056  INFO 33309 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:05:35.181  INFO 33309 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.01 seconds (JVM running for 6.756)
+2019-12-16 05:05:35.191  INFO 33309 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:05:57.247  INFO 33373 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33373 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:05:57.280  INFO 33373 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:06:00.121  INFO 33373 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 6.886 seconds (JVM running for 9.951)
+2019-12-16 05:06:00.145  INFO 33373 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:07:12.710  INFO 33445 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33445 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:07:12.734  INFO 33445 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:07:15.610  INFO 33445 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.966 seconds (JVM running for 7.876)
+2019-12-16 05:07:15.621  INFO 33445 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:09:25.540  INFO 33538 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33538 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:09:25.552  INFO 33538 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:09:27.689  INFO 33538 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.904 seconds (JVM running for 6.536)
+2019-12-16 05:09:27.698  INFO 33538 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:09:27.701  INFO 33538 --- [JavaFX Application Thread] javafx.Controller.AppsController                : Load file fxml application
+2019-12-16 05:10:52.214  INFO 33644 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33644 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:10:52.226  INFO 33644 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:10:54.312  INFO 33644 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.972 seconds (JVM running for 6.899)
+2019-12-16 05:10:54.322  INFO 33644 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:15:39.485  INFO 33759 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33759 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:15:39.498  INFO 33759 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:15:41.203  WARN 33759 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'javafxFullApplication': Unsatisfied dependency expressed through field 'fun'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Function.Fungsi' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 05:15:41.235  INFO 33759 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 05:15:41.607 ERROR 33759 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field fun in javafx.JavafxFullApplication required a bean of type 'javafx.Function.Fungsi' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Function.Fungsi' in your configuration.
+
+2019-12-16 05:15:41.614 ERROR 33759 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 05:18:25.469  INFO 33866 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33866 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:18:25.501  INFO 33866 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:18:28.319  INFO 33866 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.78 seconds (JVM running for 7.348)
+2019-12-16 05:18:28.342  INFO 33866 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:18:28.346  INFO 33866 --- [JavaFX Application Thread] javafx.Controller.AppsController  : Load file fxml menu
+2019-12-16 05:24:03.459  INFO 33975 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 33975 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:24:03.470  INFO 33975 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:24:05.428  INFO 33975 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.751 seconds (JVM running for 6.277)
+2019-12-16 05:24:05.436  INFO 33975 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:24:05.439  INFO 33975 --- [JavaFX Application Thread] javafx.Controller.AppsController  : Load file fxml menu
+2019-12-16 05:30:42.142  INFO 34172 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 34172 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:30:42.149  INFO 34172 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:30:43.411  INFO 34172 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 2.173 seconds (JVM running for 3.834)
+2019-12-16 05:30:43.418  INFO 34172 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:30:43.420  INFO 34172 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 05:32:38.726  INFO 34260 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 34260 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:32:38.743  INFO 34260 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:32:41.343  INFO 34260 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.612 seconds (JVM running for 7.421)
+2019-12-16 05:32:41.353  INFO 34260 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:32:41.357  INFO 34260 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 05:33:39.188  INFO 34372 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 34372 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:33:39.201  INFO 34372 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:33:41.994  INFO 34372 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.676 seconds (JVM running for 7.415)
+2019-12-16 05:33:42.005  INFO 34372 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:33:42.009  INFO 34372 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 05:33:43.024  WARN 34372 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 05:34:17.278  INFO 34435 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 34435 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:34:17.293  INFO 34435 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:34:19.668  INFO 34435 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.254 seconds (JVM running for 6.915)
+2019-12-16 05:34:19.678  INFO 34435 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:34:19.681  INFO 34435 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 05:34:19.942  WARN 34435 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 05:44:54.356  INFO 34725 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 34725 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:44:54.391  INFO 34725 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:44:56.444  INFO 34725 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.446 seconds (JVM running for 8.721)
+2019-12-16 05:44:56.454  INFO 34725 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:44:56.457  INFO 34725 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 05:44:56.707  WARN 34725 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 05:54:09.339  INFO 34919 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 34919 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 05:54:09.359  INFO 34919 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 05:54:11.808  INFO 34919 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.994 seconds (JVM running for 8.977)
+2019-12-16 05:54:11.819  INFO 34919 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 05:54:11.822  INFO 34919 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 05:54:12.132  WARN 34919 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 06:33:36.395  INFO 35846 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 35846 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 06:33:36.411  INFO 35846 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 06:33:38.884  INFO 35846 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2019-12-16 06:33:39.001  INFO 35846 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 80ms. Found 0 JPA repository interfaces.
+2019-12-16 06:33:40.093  WARN 35846 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-12-16 06:33:40.136  INFO 35846 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 06:33:40.144 ERROR 35846 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-12-16 06:33:40.151 ERROR 35846 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 06:35:15.850  INFO 36099 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 36099 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 06:35:15.867  INFO 36099 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 06:35:17.540  INFO 36099 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2019-12-16 06:35:17.663  INFO 36099 --- [JavaFX Application Thread] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 89ms. Found 0 JPA repository interfaces.
+2019-12-16 06:35:18.710  WARN 36099 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+2019-12-16 06:35:18.746  INFO 36099 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 06:35:18.754 ERROR 36099 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active).
+
+2019-12-16 06:35:18.759 ERROR 36099 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 07:35:39.226  INFO 37618 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 37618 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:35:39.240  INFO 37618 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:35:41.196  INFO 37618 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.969 seconds (JVM running for 6.992)
+2019-12-16 07:35:41.207  INFO 37618 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 07:35:41.211  INFO 37618 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 07:35:41.472  WARN 37618 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:37:08.751  INFO 37682 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 37682 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:37:08.771  INFO 37682 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:37:10.507  WARN 37682 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appsController': Unsatisfied dependency expressed through field 'menuController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.MenuController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 07:37:10.549  INFO 37682 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 07:37:10.901 ERROR 37682 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field menuController in javafx.Controller.AppsController required a bean of type 'javafx.Controller.MenuController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.MenuController' in your configuration.
+
+2019-12-16 07:37:10.906 ERROR 37682 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 07:37:48.499  INFO 37752 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 37752 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:37:48.513  INFO 37752 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:37:50.841  WARN 37752 --- [JavaFX Application Thread] s.c.a.AnnotationConfigApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'appsController': Unsatisfied dependency expressed through field 'menuController'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'javafx.Controller.MenuController' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-12-16 07:37:50.876  INFO 37752 --- [JavaFX Application Thread] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-12-16 07:37:51.249 ERROR 37752 --- [JavaFX Application Thread] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field menuController in javafx.Controller.AppsController required a bean of type 'javafx.Controller.MenuController' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'javafx.Controller.MenuController' in your configuration.
+
+2019-12-16 07:37:51.254 ERROR 37752 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Application Stop ...
+2019-12-16 07:38:20.612  INFO 37817 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 37817 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:38:20.625  INFO 37817 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:38:22.722  INFO 37817 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.907 seconds (JVM running for 6.526)
+2019-12-16 07:38:22.732  INFO 37817 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 07:38:22.735  INFO 37817 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 07:38:22.877  WARN 37817 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:43:30.519  INFO 37953 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 37953 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:43:30.532  INFO 37953 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:43:32.605  INFO 37953 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.927 seconds (JVM running for 6.576)
+2019-12-16 07:43:32.615  INFO 37953 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 07:43:32.618  INFO 37953 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 07:43:32.766  WARN 37953 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:43:32.821  INFO 37953 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 07:43:32.992  WARN 37953 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:53:28.801  INFO 38203 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 38203 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:53:28.814  INFO 38203 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:53:30.812  INFO 38203 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.748 seconds (JVM running for 6.633)
+2019-12-16 07:53:30.822  INFO 38203 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 07:53:30.825  INFO 38203 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 07:53:30.968  WARN 38203 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:53:31.030  INFO 38203 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 07:53:31.192  WARN 38203 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:53:31.216  INFO 38203 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 07:53:31.268  WARN 38203 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:54:16.849  INFO 38300 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 38300 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:54:16.862  INFO 38300 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:54:19.281  INFO 38300 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.217 seconds (JVM running for 6.702)
+2019-12-16 07:54:19.291  INFO 38300 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 07:54:19.295  INFO 38300 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 07:54:19.438  WARN 38300 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:54:19.496  INFO 38300 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 07:54:19.651  WARN 38300 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:54:19.673  INFO 38300 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 07:54:19.717  WARN 38300 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:57:01.480  INFO 38388 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 38388 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:57:01.493  INFO 38388 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:57:03.418  INFO 38388 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.719 seconds (JVM running for 6.392)
+2019-12-16 07:57:03.429  INFO 38388 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 07:57:03.431  INFO 38388 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 07:57:03.575  WARN 38388 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:57:03.634  INFO 38388 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 07:57:03.791  WARN 38388 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:57:03.813  INFO 38388 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 07:57:03.851  WARN 38388 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:59:28.248  INFO 38519 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 38519 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 07:59:28.262  INFO 38519 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 07:59:30.299  INFO 38519 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.836 seconds (JVM running for 6.473)
+2019-12-16 07:59:30.308  INFO 38519 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 07:59:30.311  INFO 38519 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 07:59:30.453  WARN 38519 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:59:30.510  INFO 38519 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 07:59:30.674  WARN 38519 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 07:59:30.700  INFO 38519 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 07:59:30.747  WARN 38519 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:00:16.056  INFO 38585 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 38585 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:00:16.069  INFO 38585 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:00:18.074  INFO 38585 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.782 seconds (JVM running for 6.183)
+2019-12-16 08:00:18.084  INFO 38585 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:00:18.087  INFO 38585 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:00:18.231  WARN 38585 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:00:18.290  INFO 38585 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:00:18.457  WARN 38585 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:00:18.481  INFO 38585 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:00:18.523  WARN 38585 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:01:09.421  INFO 38650 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 38650 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:01:09.437  INFO 38650 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:01:11.277  INFO 38650 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.812 seconds (JVM running for 6.805)
+2019-12-16 08:01:11.301  INFO 38650 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:01:11.305  INFO 38650 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:01:11.446  WARN 38650 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:01:11.505  INFO 38650 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:01:11.664  WARN 38650 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:01:11.686  INFO 38650 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:01:11.729  WARN 38650 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:08:44.394  INFO 39011 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39011 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:08:44.406  INFO 39011 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:08:46.776  INFO 39011 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.219 seconds (JVM running for 6.538)
+2019-12-16 08:08:46.786  INFO 39011 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:08:46.788  INFO 39011 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:08:46.931  WARN 39011 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:08:46.991  INFO 39011 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:08:47.142  WARN 39011 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:08:47.184  INFO 39011 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:08:47.235  WARN 39011 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:10:47.951  INFO 39167 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39167 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:10:47.965  INFO 39167 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:10:49.976  INFO 39167 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.79 seconds (JVM running for 6.235)
+2019-12-16 08:10:49.985  INFO 39167 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:10:49.988  INFO 39167 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:10:50.129  WARN 39167 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:10:50.190  INFO 39167 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:10:50.350  WARN 39167 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:10:50.393  INFO 39167 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:10:50.437  WARN 39167 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:16:43.919  INFO 39343 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39343 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:16:43.932  INFO 39343 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:16:45.927  INFO 39343 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.814 seconds (JVM running for 6.271)
+2019-12-16 08:16:45.937  INFO 39343 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:16:45.940  INFO 39343 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:16:46.085  WARN 39343 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:16:46.146  INFO 39343 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:16:46.300  WARN 39343 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:16:46.375  INFO 39343 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:16:46.418  WARN 39343 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:17:28.155  INFO 39419 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39419 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:17:28.176  INFO 39419 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:17:30.495  INFO 39419 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.131 seconds (JVM running for 6.597)
+2019-12-16 08:17:30.505  INFO 39419 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:17:30.508  INFO 39419 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:17:30.653  WARN 39419 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:17:30.715  INFO 39419 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:17:30.871  WARN 39419 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:17:30.961  INFO 39419 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:17:31.001  WARN 39419 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:26:33.968  INFO 39643 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39643 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:26:33.979  INFO 39643 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:26:35.988  INFO 39643 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.806 seconds (JVM running for 6.171)
+2019-12-16 08:26:35.998  INFO 39643 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:26:36.001  INFO 39643 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:26:36.146  WARN 39643 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:26:36.208  INFO 39643 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:26:36.367  WARN 39643 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:26:36.457  INFO 39643 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:26:36.502  WARN 39643 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:26:36.505  INFO 39643 --- [JavaFX Application Thread] javafx.Controller.TabsController         : Load file fxml tabs 
+2019-12-16 08:26:36.520  WARN 39643 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:28:22.339  INFO 39752 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39752 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:28:22.352  INFO 39752 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:28:24.725  INFO 39752 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.137 seconds (JVM running for 6.826)
+2019-12-16 08:28:24.734  INFO 39752 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:28:24.737  INFO 39752 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:28:24.882  WARN 39752 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:28:24.947  INFO 39752 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:28:25.114  WARN 39752 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:28:25.199  INFO 39752 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:28:25.240  WARN 39752 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:28:25.243  INFO 39752 --- [JavaFX Application Thread] javafx.Controller.TabsController         : Load file fxml tabs 
+2019-12-16 08:28:25.260  WARN 39752 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:29:28.022  INFO 39820 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39820 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:29:28.044  INFO 39820 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:29:30.034  INFO 39820 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.849 seconds (JVM running for 6.195)
+2019-12-16 08:29:30.044  INFO 39820 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:29:30.046  INFO 39820 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:29:30.187  WARN 39820 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:29:30.257  INFO 39820 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:29:30.419  WARN 39820 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:29:30.511  INFO 39820 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:29:30.556  WARN 39820 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:29:30.558  INFO 39820 --- [JavaFX Application Thread] javafx.Controller.TabsController         : Load file fxml tabs 
+2019-12-16 08:29:30.572  WARN 39820 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:30:48.213  INFO 39942 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 39942 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:30:48.235  INFO 39942 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:30:50.268  INFO 39942 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.809 seconds (JVM running for 6.377)
+2019-12-16 08:30:50.277  INFO 39942 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:30:50.280  INFO 39942 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:30:50.428  WARN 39942 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:30:50.493  INFO 39942 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:30:50.649  WARN 39942 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:30:50.734  INFO 39942 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:30:50.778  WARN 39942 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:30:50.780  INFO 39942 --- [JavaFX Application Thread] javafx.Controller.TabsController         : Load file fxml tabs 
+2019-12-16 08:30:50.797  WARN 39942 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:32:01.433  INFO 40012 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 40012 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:32:01.446  INFO 40012 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:32:03.501  INFO 40012 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.88 seconds (JVM running for 6.373)
+2019-12-16 08:32:03.511  INFO 40012 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:32:03.514  INFO 40012 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:32:03.668  WARN 40012 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:32:03.734  INFO 40012 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:32:03.888  WARN 40012 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:32:03.974  INFO 40012 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:32:04.017  WARN 40012 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:32:04.020  INFO 40012 --- [JavaFX Application Thread] javafx.Controller.TabsController         : Load file fxml tabs 
+2019-12-16 08:32:04.034  WARN 40012 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:33:21.267  INFO 40136 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 40136 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:33:21.282  INFO 40136 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:33:23.363  INFO 40136 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.891 seconds (JVM running for 6.334)
+2019-12-16 08:33:23.379  INFO 40136 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:33:23.383  INFO 40136 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:33:23.525  WARN 40136 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:33:23.589  INFO 40136 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:33:23.760  WARN 40136 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:33:23.846  INFO 40136 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:33:23.903  WARN 40136 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:33:23.906  INFO 40136 --- [JavaFX Application Thread] javafx.Controller.TabsController         : Load file fxml tabs 
+2019-12-16 08:33:23.922  WARN 40136 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:34:35.344  INFO 40272 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 40272 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:34:35.371  INFO 40272 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:34:37.362  INFO 40272 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.832 seconds (JVM running for 6.435)
+2019-12-16 08:34:37.371  INFO 40272 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:34:37.374  INFO 40272 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:34:37.529  WARN 40272 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:34:37.780  INFO 40272 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:34:37.793  WARN 40272 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:34:37.878  INFO 40272 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:34:37.916  WARN 40272 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:35:51.956  INFO 40372 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 40372 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:35:51.969  INFO 40372 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:35:54.224  INFO 40372 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.082 seconds (JVM running for 6.628)
+2019-12-16 08:35:54.339  INFO 40372 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:35:54.342  INFO 40372 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:35:54.495  WARN 40372 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:35:54.750  INFO 40372 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:35:54.761  WARN 40372 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:35:54.840  INFO 40372 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:35:54.877  WARN 40372 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:37:36.427  INFO 40483 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 40483 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:37:36.440  INFO 40483 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:37:38.487  INFO 40483 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.865 seconds (JVM running for 6.292)
+2019-12-16 08:37:38.496  INFO 40483 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:37:38.500  INFO 40483 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:37:38.645  WARN 40483 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:37:38.894  INFO 40483 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:37:38.906  WARN 40483 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:37:38.988  INFO 40483 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:37:39.026  WARN 40483 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:42:14.717  INFO 40604 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 40604 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:42:14.731  INFO 40604 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:42:17.822  INFO 40604 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 5.074 seconds (JVM running for 7.518)
+2019-12-16 08:42:17.832  INFO 40604 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:42:17.835  INFO 40604 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:42:17.984  WARN 40604 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:42:18.242  INFO 40604 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:42:18.253  WARN 40604 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:42:18.356  INFO 40604 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:42:18.393  WARN 40604 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:50:30.801  INFO 41092 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 41092 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:50:30.844  INFO 41092 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:50:32.845  INFO 41092 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.841 seconds (JVM running for 7.934)
+2019-12-16 08:50:32.856  INFO 41092 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:50:32.858  INFO 41092 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:50:33.084  WARN 41092 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:50:33.364  INFO 41092 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:50:33.377  WARN 41092 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:50:33.488  INFO 41092 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:50:33.524  WARN 41092 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:57:54.956  INFO 41533 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 41533 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 08:57:54.977  INFO 41533 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 08:57:57.391  INFO 41533 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.086 seconds (JVM running for 6.8)
+2019-12-16 08:57:57.401  INFO 41533 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 08:57:57.404  INFO 41533 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 08:57:57.549  WARN 41533 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:57:57.805  INFO 41533 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 08:57:57.816  WARN 41533 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 08:57:57.908  INFO 41533 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 08:57:57.947  WARN 41533 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:01:14.391  INFO 41793 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 41793 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:01:14.412  INFO 41793 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:01:16.666  INFO 41793 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.056 seconds (JVM running for 6.554)
+2019-12-16 09:01:16.688  INFO 41793 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:01:16.691  INFO 41793 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:01:16.872  WARN 41793 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:01:17.182  INFO 41793 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:01:17.193  WARN 41793 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:01:17.280  INFO 41793 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:01:17.317  WARN 41793 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:06:46.992  INFO 42361 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 42361 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:06:47.008  INFO 42361 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:06:49.059  INFO 42361 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.012 seconds (JVM running for 6.564)
+2019-12-16 09:06:49.071  INFO 42361 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:06:49.073  INFO 42361 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:06:49.218  WARN 42361 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:06:49.529  INFO 42361 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:06:49.539  WARN 42361 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:06:49.624  INFO 42361 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:06:49.659  WARN 42361 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:08:14.390  INFO 42446 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 42446 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:08:14.405  INFO 42446 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:08:16.477  INFO 42446 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.949 seconds (JVM running for 6.476)
+2019-12-16 09:08:16.486  INFO 42446 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:08:16.489  INFO 42446 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:08:16.641  WARN 42446 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:08:16.956  INFO 42446 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:08:16.965  WARN 42446 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:08:17.050  INFO 42446 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:08:17.089  WARN 42446 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:16:18.740  INFO 42690 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 42690 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:16:18.754  INFO 42690 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:16:20.709  INFO 42690 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.773 seconds (JVM running for 6.479)
+2019-12-16 09:16:20.721  INFO 42690 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:16:20.833  INFO 42690 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:16:20.984  WARN 42690 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:16:21.291  INFO 42690 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:16:21.302  WARN 42690 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:16:21.385  INFO 42690 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:16:21.422  WARN 42690 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:16:21.425  INFO 42690 --- [JavaFX Application Thread] javafx.Controller.ToolbarController      : Load file fxml toolbar 
+2019-12-16 09:16:21.436  WARN 42690 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:17:11.075  INFO 42760 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 42760 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:17:11.088  INFO 42760 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:17:13.540  INFO 42760 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.219 seconds (JVM running for 6.799)
+2019-12-16 09:17:13.550  INFO 42760 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:17:13.552  INFO 42760 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:17:13.705  WARN 42760 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:17:14.002  INFO 42760 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:17:14.014  WARN 42760 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:17:14.103  INFO 42760 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:17:14.147  WARN 42760 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:17:14.150  INFO 42760 --- [JavaFX Application Thread] javafx.Controller.ToolbarController      : Load file fxml toolbar 
+2019-12-16 09:17:14.159  WARN 42760 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:25:23.346  INFO 43110 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 43110 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:25:23.360  INFO 43110 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:25:25.808  INFO 43110 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 4.209 seconds (JVM running for 6.544)
+2019-12-16 09:25:25.818  INFO 43110 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:25:25.821  INFO 43110 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:25:25.968  WARN 43110 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:25:26.262  INFO 43110 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:25:26.271  WARN 43110 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:25:26.352  INFO 43110 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:25:26.387  WARN 43110 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:25:26.389  INFO 43110 --- [JavaFX Application Thread] javafx.Controller.ToolbarController      : Load file fxml toolbar 
+2019-12-16 09:25:26.398  WARN 43110 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:30:39.971  INFO 43260 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 43260 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:30:39.983  INFO 43260 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:30:41.990  INFO 43260 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.643 seconds (JVM running for 6.065)
+2019-12-16 09:30:42.001  INFO 43260 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:30:42.004  INFO 43260 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:30:42.154  WARN 43260 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:30:42.455  INFO 43260 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:30:42.464  WARN 43260 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:30:42.550  INFO 43260 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:30:42.585  WARN 43260 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:30:42.590  INFO 43260 --- [JavaFX Application Thread] javafx.Controller.ToolbarController      : Load file fxml toolbar 
+2019-12-16 09:30:42.603  WARN 43260 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:57:46.002  INFO 44169 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Starting application on joshdoe with PID 44169 (started by root in /home/pace/Documents/BIGPROJECT/JavaFx Full)
+2019-12-16 09:57:46.015  INFO 44169 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : No active profile set, falling back to default profiles: default
+2019-12-16 09:57:48.086  INFO 44169 --- [JavaFX Application Thread] o.s.boot.SpringApplication               : Started application in 3.834 seconds (JVM running for 6.589)
+2019-12-16 09:57:48.096  INFO 44169 --- [JavaFX Application Thread] javafx.JavafxFullApplication             : Running Application Success ....
+2019-12-16 09:57:48.099  INFO 44169 --- [JavaFX Application Thread] javafx.Controller.AppsController         : Load file fxml menu 
+2019-12-16 09:57:48.256  WARN 44169 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:57:48.596  INFO 44169 --- [JavaFX Application Thread] javafx.Controller.MenuController         : Load file fxml menu 
+2019-12-16 09:57:48.605  WARN 44169 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:57:48.692  INFO 44169 --- [JavaFX Application Thread] javafx.Controller.ListController         : Load file fxml list 
+2019-12-16 09:57:48.730  WARN 44169 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
+2019-12-16 09:57:48.733  INFO 44169 --- [JavaFX Application Thread] javafx.Controller.ToolbarController      : Load file fxml toolbar 
+2019-12-16 09:57:48.742  WARN 44169 --- [JavaFX Application Thread] javafx                                   : Loading FXML document with JavaFX API of version 10.0.1 by JavaFX runtime of version 8.0.212
